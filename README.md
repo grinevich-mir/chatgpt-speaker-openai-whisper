@@ -103,18 +103,3 @@ _Please refer to the [Documentation](https://openai.com/blog/whisper/)_
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
-
-<!-- CONTACT -->
-## Contact
-
-Gustavo Andres Barreto- - Barretoandres461@gmail.com
-
-Project Link: [https://github.com/Gustavoandresai/chatgpt-speaker-openai-whisper](https://github.com/Gustavoandresai/chatgpt-speaker-openai-whisper)
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[license-url]: https://github.com/Gustavoandresai/chatgpt-speaker-openai-whisper/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/gustavoandresbarreto
-[product-screenshot]: portfolio-9.jpg
