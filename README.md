@@ -2,9 +2,6 @@
 A Voice assistant chatbot made with whisper speech to text and openai to generate responses to user queries. Features include speech recognition, text-to-speech conversion, and a customizable personality
 
 
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
@@ -47,7 +44,7 @@ torch
 
 You can install these dependencies using pip, the Python package manager. Here are the steps:
    ```sh
-   git clone https://github.com/Gustavoandresai/chatgpt-speaker-openai-whisper.git
+   git clone https://github.com/grinevich-mir/chatgpt-speaker-openai-whisper
    ```
 Run the following command to install dependencies:
 `WHISPER` `OpenAi` `pyttsx3` `SpeechRecognition` `pydub` `torch` `numpy`
